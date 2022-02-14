@@ -1,3 +1,6 @@
+
+/// for more on FsUnit check out: http://fsprojects.github.io/FsUnit/
+
 /// Modules can have fancy names, even with spaces in them.
 module ``Testing fundamentals``
     
