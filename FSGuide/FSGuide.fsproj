@@ -8,8 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="2FsUnit.fs" />
         <Compile Include="1LetDeclaration.fs" />
+        <Compile Include="2FsUnit.fs" />
+        <Compile Include="3Pipes.fs" />
     </ItemGroup>
 
     <ItemGroup>
